@@ -13,4 +13,4 @@ givr path to source video and harrcascade frontel lobe model.
 
 model.h5 is the trained model.
 
-FER (2013) is the data set used to train this model.
+FER (2013) from kaggle is the data set used to train this model.
